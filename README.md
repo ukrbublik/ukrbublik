@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ukrbublik/ukrbublik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ukrbublik&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="stats" />
+</p>
